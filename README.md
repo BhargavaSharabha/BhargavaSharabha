@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhargava Sharabha Pagidimarri</h1>
 <h3 align="center">Student at Southern Methodist University, Dallas, Tx</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 💬 Ask me about **my projects**
 
-- 📫 How to reach me **usa@bhargavasharabha@gmail.com**
+- 📫 How to reach me **usa@bhargavasharabha.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
